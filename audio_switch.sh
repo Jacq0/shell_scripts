@@ -1,3 +1,4 @@
+#!/bin/sh
 #switches output between speaker and headphones on hotkey
 PHONES='alsa_output.usb-Razer_Razer_USB_Audio_Controller_000000000000000000000000-00.stereo-chat'
 SPEAKERS='alsa_output.pci-0000_09_00.1.hdmi-stereo-extra2'
