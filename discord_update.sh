@@ -9,3 +9,6 @@ mkdir -p "$output_dir"
 rm -r "$output_dir/Discord"
 cp -r Discord/ "$output_dir"
 rm "$file_name"
+
+#run after update
+$output_dir/Discord/Discord
